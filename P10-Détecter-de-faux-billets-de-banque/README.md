@@ -24,6 +24,6 @@ L'objectif de ce projet est de créer un algorithme capable d'identifier de faux
     - pickle
 
 ### Data
-Les données utilisées sont fournis par la plateforme OpenClassrooms:
+Les données utilisées sont fournies par la plateforme OpenClassrooms:
   - `billets.csv` - jeux de données de départ.
   - `billets_production.csv` - jeux de données test.
