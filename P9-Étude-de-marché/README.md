@@ -9,8 +9,8 @@ L'objectif de ce projet est de réalisé une étude de marché afin d'identifier
 
 ### Code
 **Aperçu des fichiers:**
-  - `p9_préparation.ipynb` - notebook Jupyter regroupant les données en un jeux de données global.
-  - `p9_analyse.ipynb` - notebook Jupyter contenant l'exploration et l'analyse des données ainsi que la présentation des recommandations.
+  - [`p9_préparation.ipynb`](https://github.com/rodriguezvincent/ProjetsOpenclassrooms-FR/blob/main/P9-%C3%89tude-de-march%C3%A9/P9_pr%C3%A9paration.ipynb) - notebook Jupyter regroupant les données en un jeux de données global.
+  - [`p9_analyse.ipynb`](https://github.com/rodriguezvincent/ProjetsOpenclassrooms-FR/blob/main/P9-%C3%89tude-de-march%C3%A9/P9_analyse.ipynb) - notebook Jupyter contenant l'exploration et l'analyse des données ainsi que la présentation des recommandations.
 
 # Setup
   - Librairies Python:
