@@ -9,8 +9,8 @@ L'objectif de ce projet est de créer un algorithme capable d'identifier de faux
 
 ### Code
 **Aperçu des fichiers:**
-  - `p10_code.ipynb` - notebook Jupyter présentant l'exploration des données et la création du modèle.
-  - `p10_app.ipynb` - notebook Jupyter application du modèle final sur un jeu de données test.
+  - [`p10_code.ipynb`](https://github.com/rodriguezvincent/ProjetsOpenclassrooms-FR/blob/main/P10-D%C3%A9tecter-de-faux-billets-de-banque/p10_code.ipynb) - notebook Jupyter présentant l'exploration des données et la création du modèle.
+  - [`p10_app.ipynb`](https://github.com/rodriguezvincent/ProjetsOpenclassrooms-FR/blob/main/P10-D%C3%A9tecter-de-faux-billets-de-banque/p10_app.ipynb) - notebook Jupyter application du modèle final sur un jeu de données test.
 
 # Setup
   - Librairies Python:
