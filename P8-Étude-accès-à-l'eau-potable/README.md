@@ -11,11 +11,11 @@ Lien vers la story sur Tableau public: [DWFA_VRodriguez](https://public.tableau.
 
 ### Code
 **Aperçu des fichiers:**
-  - `p8_préparation.ipynb` - notebook Jupyter présentant l'exploration et la préparation des données.
+  - [`p8_préparation.ipynb`](https://github.com/rodriguezvincent/projets-openclassrooms-fr/blob/main/P8-%C3%89tude-acc%C3%A8s-%C3%A0-l'eau-potable/p8_pr%C3%A9paration.ipynb) - notebook Jupyter présentant l'exploration et la préparation des données.
   - `p8_data.csv` - fichier final contenant toutes les données nécessaires à l'étude.
-  - `p8_blueprint.pdf` - pdf présentant les besoins émis par les utilisateurs et le plan mis en place (mesures, visualisations, pages) afin de      répondre à ces besoins. 
-  - `p8_mockup.pdf` - pdf présentant la 1ère trame des dashboards.
-  - `p8_dashboards.pdf` - pdf de la story Tableau.
+  - [`p8_blueprint.pdf`](https://github.com/rodriguezvincent/projets-openclassrooms-fr/blob/main/P8-%C3%89tude-acc%C3%A8s-%C3%A0-l'eau-potable/p8_blueprint.pdf) - pdf présentant les besoins émis par les utilisateurs et le plan mis en place (mesures, visualisations, pages) afin de répondre à ces besoins. 
+  - [`p8_mockup.pdf`](https://github.com/rodriguezvincent/projets-openclassrooms-fr/blob/main/P8-%C3%89tude-acc%C3%A8s-%C3%A0-l'eau-potable/p8_mockup.pdf) - pdf présentant la 1ère trame des dashboards.
+  - [`p8_dashboards.pdf`](https://github.com/rodriguezvincent/projets-openclassrooms-fr/blob/main/P8-%C3%89tude-acc%C3%A8s-%C3%A0-l'eau-potable/p8_dashboards.pdf) - pdf de la story Tableau.
 
 # Setup
   - Librairies Python:
