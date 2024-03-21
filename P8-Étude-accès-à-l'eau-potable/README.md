@@ -29,4 +29,4 @@ Les données utilisées sont fournies par la plateforme OpenClassrooms :
   - `MortalityRateAttributedToWater.csv` - Taux de mortalité attribué à la consommation d'eau non potable.
   - `PoliticalStability.csv` - Indice de stabilité politique.
   - `Population.csv` - Nombre d'habitants par: pays, zone, sexe.
-  - `RegionCountry_.csv` - Région du monde associée à chaque pays (selon la nomenclature de la World Health Organisation).
+  - `RegionCountry_.xlsx` - Région du monde associée à chaque pays (selon la nomenclature de la World Health Organisation).
