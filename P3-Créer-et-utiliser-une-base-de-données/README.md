@@ -1,26 +1,17 @@
 # Aperçu du projet
 
-L'objectif de ce projet est .
+L'objectif de ce projet était de créer une base de données MySQL à partir de données immobilières et de produire des requêtes répondant à des besoins spécifiques.
 
 ### Étapes du projet
-  - Exploration et .
-  - Test et ).
-  - Amélioration .
+  - Exploration des données et réalisation du schéma relationnel.
+  - Création de la base de données et imputation des données.
+  - Rédaction des requêtes et présentation des résultats .
 
-### Code
+### Réalisations
 **Aperçu des fichiers:**
-  - `p9_.ipynb` - notebook Jupyter .
-  - `p9_.ipynb` - notebook Jupyter .
-
-# Setup
-  - Librairies Python:
-    - pandas
-    - numpy
-    - seaborn
-    - matplotlib
-    - statsmodel
-    - sklearn
+  - `p3_schéma.pdf` - Schéma relationnel (drawio).
+  - `p3_bdd.pdf` - Base de données dans MySQL.
+  - `p3_.requetes` - Requêtes et résultats.
 
 ### Data
-Les données utilisées sont fournies par :
-  - `.csv` - jeux de données.
+Les données utilisées sont fournies par la plateforme OpenClassrooms.
