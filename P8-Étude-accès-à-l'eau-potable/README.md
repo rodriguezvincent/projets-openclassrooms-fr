@@ -1,7 +1,8 @@
 # Aperçu du projet
 
 L'objectif de ce projet est de réaliser une étude de l'accès à l'eau potable dans le monde et de produire une série de dashboards afin d'accompagner une ONG dans sa prise décision.
-Lien vers la story sur Tableau public: `https://public.tableau.com/app/profile/vincent.rodriguez8459/viz/DWFA_VRodriguez/DWFA_Story`
+
+Lien vers la story sur Tableau public: [DWFA_VRodriguez](https://public.tableau.com/app/profile/vincent.rodriguez8459/viz/DWFA_VRodriguez/DWFA_Story)
 
 ### Étapes du projet
   - Exploration, nettoyage et préparation des données.
