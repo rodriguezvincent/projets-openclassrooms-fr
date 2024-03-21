@@ -4,6 +4,8 @@ L'objectif de ce projet est de réaliser une étude de l'accès à l'eau potable
 
 Lien vers la story sur Tableau public: [DWFA_VRodriguez](https://public.tableau.com/app/profile/vincent.rodriguez8459/viz/DWFA_VRodriguez/DWFA_Story)
 
+De nombreux paramètres peuvent être ajustés afin de réaliser une séléction selon les critères que l'on juge prioritaires. Les paramètres enregistrés par défaut sont un simple exemple.
+
 ### Étapes du projet
   - Exploration, nettoyage et préparation des données.
   - Recueil des besoins et réalisation des blueprint et mockup.
