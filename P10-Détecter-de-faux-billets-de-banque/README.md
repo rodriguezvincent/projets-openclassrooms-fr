@@ -3,8 +3,8 @@
 L'objectif de ce projet est de créer un algorithme capable d'identifier de faux billets de banque grâce à leurs mesures.
 
 ### Étapes du projet
-  - Exploration et imputation des données manquantes à l'aide d'une regression linéaire.
-  - Test et comparaison des performances de différents modèles (K-means & Regression Logistique).
+  - Exploration et imputation des données manquantes à l'aide d'une régression linéaire.
+  - Test et comparaison des performances de différents modèles (K-means & Régression Logistique).
   - Amélioration du modèle choisi et utilisation sur un jeu de données test.
 
 ### Code
