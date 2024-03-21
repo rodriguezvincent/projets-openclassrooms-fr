@@ -3,7 +3,7 @@
 L'objectif de ce projet est d'étudier les chiffres de vente d'une librairie afin de trouver des pistes de développement commercial et emettredes recommandations.
 
 ### Étapes du projet
-  - Exploration et préparation des données.
+  - Exploration, préparation des données et création d'un fichier global de travail.
   - Étude univariée (séries temporelles, profils des clients, catégories de produits)
   - Analyses bivariées et tests statistiques.
   - Recommandations.
@@ -11,7 +11,6 @@ L'objectif de ce projet est d'étudier les chiffres de vente d'une librairie afi
 ### Code
 **Aperçu des fichiers:**
   - `p6_préparation.ipynb` - notebook Jupyter présentant l'exploration et la préparation des données.
-  - `p6_data.csv` - fichier final contenant toutes les données nécessaires à l'analyse.
   - `p6_analyses.ipynb` - notebook Jupyter contenant les analyses et statistiques réalisés.
 
 # Setup
