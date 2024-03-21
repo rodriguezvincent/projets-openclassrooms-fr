@@ -22,7 +22,7 @@ L'objectif de ce projet est de réalisé une étude de marché afin d'identifier
     - scipy
 
 ### Data
-Les données utilisées ont été en quasi-totalité récupérées sur le site de la FAO (Food and Agriculture Organization) afin d'assurer le plus possible leur véracité et justesse :
+Les données utilisées ont été en quasi-totalité récupérées sur le site de la FAO (Food and Agriculture Organisation) afin d'assurer le plus possible leur véracité et justesse :
   - `FAOSTAT_DépensesPubliques.csv` - Dépenses des États dans le domaine de l'agriculture.
   - `FAOSTAT_PIB.csv` & `FAOSTAT_PIB_hab.csv`- PIB & PIB/habitants.
   - `FAOSTAT_Population.csv` - Population et sa répartition (sexe & localisation).
