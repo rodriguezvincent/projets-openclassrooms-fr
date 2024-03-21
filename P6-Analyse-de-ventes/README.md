@@ -10,8 +10,8 @@ L'objectif de ce projet est d'étudier les chiffres de vente d'une librairie afi
 
 ### Code
 **Aperçu des fichiers:**
-  - `p6_préparation.ipynb` - notebook Jupyter présentant l'exploration et la préparation des données.
-  - `p6_analyses.ipynb` - notebook Jupyter contenant les analyses et tests statistiques réalisés.
+  - [`p6_préparation.ipynb`](https://github.com/rodriguezvincent/projets-openclassrooms-fr/blob/main/P6-Analyse-de-ventes/p6_pr%C3%A9paration.ipynb) - notebook Jupyter présentant l'exploration et la préparation des données.
+  - [`p6_analyses.ipynb`](https://github.com/rodriguezvincent/projets-openclassrooms-fr/blob/main/P6-Analyse-de-ventes/p6_analyses.ipynb) - notebook Jupyter contenant les analyses et tests statistiques réalisés.
 
 # Setup
   - Librairies Python:
