@@ -9,7 +9,7 @@ L'objectif de ce projet était de créer un workflow KNIME afin de préparer et 
 
 ### Réalisations
 **Aperçu des fichiers:**
-  - `p3_workflow.knwf` - Présentation des graphiques obtenus grâce au workflow.
+  - `p3_workflow.knwf` - Workflow KNIME.
   - [`p3_workflow_components.pdf`](https://github.com/rodriguezvincent/projets-openclassrooms-fr/blob/main/P7-Analyse-d'indicateurs-d'%C3%A9galit%C3%A9-femme-homme/p7_workflow_components.pdf) - Présentation du workflow KNIME et des différents components.
   - [`p3_graph.pdf`](https://github.com/rodriguezvincent/projets-openclassrooms-fr/blob/main/P7-Analyse-d'indicateurs-d'%C3%A9galit%C3%A9-femme-homme/p7_graph.pdf) - Présentation des graphiques obtenus grâce au workflow.
 
